@@ -17,12 +17,13 @@ public class LitreDönüştürücüCevap {
 
         //GÖREV: Aşağıda eksik bırakılan yerleri tamamlayınız.
         //Prizmanın hacmini cm^3 cinsinden hesapladık.
-        int hacimCM3 = //Kodu tamamlayınız
+        int hacimCM3 = kenar1 * kenar2 * kenar3;
         //Prizmanın hacmini litreye çevirdik.
-        double hacimL = //Kodu tamamlayınız
+        double hacimL = hacimCM3/1000;
 
         //Çıktılarımızı alınız.
-       
+            
+       System.out.println("Hacmi(L):"+hacimL);
 
     }
 
