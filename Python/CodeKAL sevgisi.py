@@ -1,4 +1,3 @@
-
 #Aşağıdaki komutlar CodeKAL'ı çok seviyorum ve CodeKAL'ın bir parçası olmaktan çok mutluyum! çıktılarını vermektedir.
 print("CodeKAL'ı çok seviyorum")
 print("CodeKAL'ın bir parçası olmaktan çok mutluyum!")
@@ -7,3 +6,6 @@ print("CodeKAL'ın bir parçası olmaktan çok mutluyum!")
 
 #YAZ: Aynı görevi java programlama dili ile de yaptınız. Bu iki dil arasında gördüğünüz farklar nedir?
 # başına "#" (yorum işareti) koyarak düşüncelerinizi kodun sonuna ekleyiniz.
+print("I love CodeKAL so much")
+print("I'm so glad to being part of CodeKAL")
+#Java'nın Python'dan çok daha zor olduğunu fark ettim.
