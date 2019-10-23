@@ -1,4 +1,4 @@
-# Kullanıcı Adı ve Şifre Kontrolü
+# Kullanıcı Adı ve Şifre Kontrolü hehe
 
 defusername = "MasterPriva"
 defpassword = "12345Priva"
