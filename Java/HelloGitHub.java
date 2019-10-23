@@ -6,6 +6,7 @@ public class HelloGitHub {
 	    
 	    //Yukarıdaki komutun sözdizimini kullanarak aşağıya "Hello, GitHub!" yazdırın.
 
-	}
+		System.out.println("Hello, GitHub!");
 
+	}
 }
