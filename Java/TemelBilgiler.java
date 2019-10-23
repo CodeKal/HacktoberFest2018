@@ -44,7 +44,12 @@ public class TemelBilgiler {
 		// uygulayınız.
 		// ";" koymayı ihmal etmeyiniz.
 		// İki tane sayı girdisi aslınız ve dört işlemi yapınız.
-
+                int a = scn.nextInt();
+		int b = scn.nextInt();
+		System.out.println(a+b);
+		System.out.println(a-b);
+		System.out.println(a*b);
+		System.out.println(a/b);
 		// Dört işlem yaptıktan sonra System.out.println(); ile çıktılarını alınız.
 		
 		

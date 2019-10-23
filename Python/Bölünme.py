@@ -10,3 +10,7 @@ else:
 #GÖREV:Yukarıda verilen örenğin benzerini üçe bölünebilme ile yapınız:
 #!!!Python programlama dilinde boşluklar programın çalışması için önem arz etmektedir.
 #Yukarıdaki örneği baz alarak görevi yerine getirebilirsiniz.
+if a%3==0:
+   print(a," sayısı 3'e bölünür.")
+else:
+   print(a, "sayısı 3'e bölünmez.")
