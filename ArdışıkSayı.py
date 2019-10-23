@@ -1,4 +1,4 @@
-# Her Türlü Ardışık Dizinin Terimleri Toplamını Veren Program
+# Her Türlü Ardışık Dizinin Terimleri Toplamını Veren Program (Formül by: Ömer Burak)
 
 a = input("İlk Terim:")
 b = input("Son Terim:")
