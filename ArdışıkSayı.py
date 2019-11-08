@@ -17,3 +17,4 @@ c = input("Artış Miktarı:")
 sonuç = (((int(b) + int(a)) * (int(b) - int(a) + int(c))) / (2 * int(c)))
 
 print("Sonuç:", int(sonuç))
+#yalnız bu formülü ben öğrettim size hehe
